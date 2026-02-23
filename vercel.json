@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "src": "/allowed",
+      "dest": "/api/allowed.js"
+    },
+    {
+      "src": "/blocked",
+      "dest": "/api/blocked.js"
+    }
+  ]
+}
